@@ -1,0 +1,13 @@
+image: python:3.6-slim
+ 
+before_script:
+- python -V # Print out python version for debugging
+ 
+stages:
+- test
+ 
+test_job:
+stage: test
+script:
+- echo "Running tests"
+- python Exercise2.py"

@@ -1,0 +1,12 @@
+Metadata-Version: 1.1
+Name: nxsim
+Version: 0.1.2
+Summary: Nxsim is a Python package for simulating agents connected by any type of network using SimPy and Networkx in Python 3.4.
+Home-page: http://pypi.python.org/pypi/nxsim
+Author: Kent Kawashima
+Author-email: i@kentwait.com
+License: LICENSE
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires: simpy
+Requires: networkx
